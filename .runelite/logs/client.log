@@ -1,0 +1,9 @@
+2021-09-11 09:07:26 [RuneLite] INFO  net.runelite.client.RuneLite - RuneLite 1.7.23 (launcher version 2.1.5) starting up, args: none
+2021-09-11 09:07:27 [Preloader] INFO  net.runelite.client.rs.ClientLoader - Vanilla cache is the wrong size
+2021-09-11 09:07:28 [Preloader] WARN  net.runelite.client.rs.ClientLoader - Cached patch hash mismatches, regenerating patch
+2021-09-11 09:07:44 [Preloader] INFO  net.runelite.client.rs.ClientLoader - client-patch 1575971003.252
+2021-09-11 09:07:44 [RuneLite] INFO  n.r.client.account.SessionManager - No session file exists
+2021-09-11 09:07:46 [RuneLite] INFO  n.r.c.plugins.kourendlibrary.Library - Library is now reset
+2021-09-11 09:07:47 [RuneLite] INFO  n.r.client.discord.DiscordService - Initializing Discord RPC service.
+2021-09-11 09:07:51 [RuneLite] INFO  net.runelite.client.RuneLite - Client initialization took 25302ms. Uptime: 29963ms
+2021-09-11 09:07:52 [AWT-EventQueue-0] INFO  net.runelite.client.ui.ClientUI - Showing frame net.runelite.client.ui.ContainableFrame[frame0,320,185,801x531,layout=java.awt.BorderLayout,title=RuneLite,resizable,normal,defaultCloseOperation=DO_NOTHING_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,28,801x503,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]

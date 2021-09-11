@@ -1,0 +1,16 @@
+http://oldschool182.runescape.com/gamepack_3546713.jar
+GET
+0
+HTTP/1.1 200 OK
+11
+Date: Wed, 04-Aug-2021 08:09:21 GMT
+Server: JAGeX/3.1
+Content-type: application/octet-stream
+Cache-control: public, max-age=25920000
+Expires: Tue, 31-May-2022 08:09:21 GMT
+Last-modified: Wed, 28-Jul-2021 08:09:21 GMT
+Set-Cookie: JXADDINFO=DBXPZaBPotHnzeZldoHBTxXnbnMFe3VcAAAAAAA; version=1; path=/; domain=.runescape.com
+Connection: Keep-alive
+Content-length: 2275392
+OkHttp-Sent-Millis: 1628064561281
+OkHttp-Received-Millis: 1628064561365

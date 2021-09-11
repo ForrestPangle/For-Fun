@@ -1,0 +1,16 @@
+http://oldschool86.runescape.com/gamepack_3687068.jar
+GET
+0
+HTTP/1.1 200 OK
+11
+Date: Wed, 21-Jul-2021 07:39:11 GMT
+Server: JAGeX/3.1
+Content-type: application/octet-stream
+Cache-control: public, max-age=25920000
+Expires: Tue, 17-May-2022 07:39:11 GMT
+Last-modified: Wed, 14-Jul-2021 07:39:11 GMT
+Set-Cookie: JXADDINFO=DBXPZaBPotHnzeZldoHBTxXnbnMFe3VcAAAAAAA; version=1; path=/; domain=.runescape.com
+Connection: Keep-alive
+Content-length: 2239561
+OkHttp-Sent-Millis: 1626853151607
+OkHttp-Received-Millis: 1626853151667

@@ -1,0 +1,354 @@
+node--version
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew help
+brewhelp
+- run brew help
+-runbrewhelp
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/forrestpangle/.zprofile\
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+brew help
+brew install node
+node --version
+ssh - keygen -t rsa -b 4046 - C forrestpangle@gmail.com
+ssh-keygen -t rsa -b 4046 -C forrestpangle@gmail.com
+eval $(.ssh/id_rsa\
+eval $(ssh - agent -S)\
+eval $(ssh-agent -S)\
+eval $(.ssh - agent -S)\
+eval eval $(ssh-agent -s)\
+evl $(ssh-agent -s)\
+eval $ssh-agent -s)
+pbcopy < ~/.sshid_rsa.pub >
+ssh-add ~/.ssh/id_rsa
+open /Users/forrestpangle/.ssh/id_rsa.pub.
+ls -al ~/.ssh
+$ pbcopy < ~/.ssh/id_rsa.pub\
+
+$ pbcopy < ~/.ssh/id_rsa.pub\
+
+echo "# GitForrest" >> README.md
+git remote add origin https://github.com/ForrestPangle/GitForrest.git
+ssh-keygen â€ƒ³t rsa â€ƒ³b 4096 â€ƒ³C "forrestpangle@gmail.com"
+eval "$(ssh-agent â€ƒ³s)"
+Host *\
+  AddKeysToAgent yes\
+  UseKeychain yes\
+  IdentityFile ~/.ssh/id_rsa\
+
+AddKeysToAgent
+AddKeysToAgent yes
+ssh-keygen â€ƒ³t rsa â€ƒ³b 4096 â€ƒ³C "forrestpangle@gmail.com"
+pbcopy < ~/.ssh/id_rsa.pub
+$ git config --global user.email "email@example.com"\
+
+$ git config --global user.email "forrestpangle@gmail.com"
+$ git config --global user.email\
+
+ls
+mkdir lrn2code
+cd lrn2code
+touch lrn2code.de
+touch lrn2code.md
+ls
+rm lean2code.de
+ls
+cd learn2code.de
+pwd
+ls
+rm lrn2code.de
+ls
+mv lrn2code.md test lrn2code.jpeg
+ls
+ls
+mv lrn2code.md test.md
+ls
+rm test.md
+ls
+history
+ls
+cd lrn2code
+ls
+touch test.md
+ls
+code .\\
+code .
+ls
+code .
+code .
+ls -a
+code .gitconfig
+git clone git@github.com:ForrestPangle/prework-about-me.git
+ls
+cd prework-about-me
+ls
+code .
+git status
+git add index.html
+git status
+git comit -m 
+git status
+git commit "updating our h1 tag with our name"
+git status
+git commit m- "updating our h1 tag with our name"
+git status
+git status
+git commit -m "updating our h1 tag with our name"
+git status
+git push origin master
+git status
+code .
+git status
+git add index.html
+git status
+git commit m- "updating personal details"
+git ststus
+git status
+git commit -m "updatingpersonal details"
+git push origin master
+git status
+git add index.html
+gtit status
+git status
+git status
+git push origin master
+git status
+git commit -m "updating details again for typo"
+git status
+ls
+code .
+git staus
+git staus
+cd prework-about-me
+git status
+git add index.html
+git status
+git add commit -m "bug fix"
+git status
+git stutus
+git status
+git commit m- "bug fix"
+git commit -m "bug fix"
+git push origin master
+it git status
+git status
+git add index.html
+git staus
+git status
+git commit -m "more spelling errors ha"
+git push origin master
+git staus
+git status
+git status
+git add index.html
+git status
+git commit -m "another bug from a typo...I really am rusty"
+git push origin master
+git status
+git status
+git add index.html
+git status
+git commit m- "i guess all these typos make good practice? lol"
+git status
+git commit m- "i guess all these typos make good practice? ha"
+git status
+git status
+ls
+cd prework-about-me
+git status
+git commit m- "well i guess all these mistakes make good practice. More typos ha"
+git status
+git commit m- "more mistakes"
+git push origin master
+git status
+git status
+git commit m- "more typos"
+git commit m-"more typos"
+git commit m- "more typos"
+git status
+ls
+prework-about-me
+cd prework-about-me
+ls
+git status
+git commit m- "typo"
+code .
+git commit m- "typo"
+git status
+git commit -m "typo"
+git status
+git push index.html
+git status
+git status
+git push origin master
+git status
+git add index.html
+git status
+git commit -m"punctuation"
+git push origin master
+/Applications/CrossOver.app/Contents/SharedSupport/CrossOver/CrossOver-Hosted\ Application/wine32on64-preloader ; exit;
+/Applications/CrossOver.app/Contents/SharedSupport/CrossOver/CrossOver-Hosted\ Application/wine32on64-preloader ; exit;
+ls
+c ..
+c ..
+pwd
+pwd
+cd desktop
+ ~/desktop
+pwd
+ls
+mkdir demo-folder
+ls
+ls
+pwd
+ls
+cd demo-folder
+cd root
+~cd/desktop/demo-folder
+ls
+cd ..
+~/desktop/demo-folder
+cd first-day
+cd first-day
+ls
+cd first-day
+cd first-day
+cd first-day
+md dir first-day
+ls
+mk dir first-day
+ls
+mk dr-first-day
+ls
+pwd
+ls
+mk dr first-day
+ls
+mkdir first-day
+ls
+cd first-day
+touch demo
+ls
+pwd
+c ..
+pwd
+cd ..
+mkdir bootcamp
+cd bootcamp
+ls
+pwd
+c..
+..c
+..c
+.. c
+c ..
+c..
+cd desktop
+ls
+cd /bootcamp
+mkdir testing
+cd testing
+git clone git@github.com:ForrestPangle/testing.git
+git staus
+git clone git@github.com:ForrestPangle/testing.git
+ls
+cd testing
+touch index.html
+git status
+git add -A
+git status
+commit -m "first comment"
+git status
+git add -A
+git status
+git add index.html
+git status
+cd ~
+mkdir class-repo
+ls
+~/ .ssh
+sudo cd .ssh
+~/.ssh
+~/.ssh/id_ed25519.pub
+pbcopy < ~/.ssh/id_ed25519.pub
+ls
+cd bootcamp
+mkdir bootcamp
+ls
+git status
+cd ~
+cd .ssh/
+ls
+cat id_rsa.pub
+ls
+cd desktop
+ls
+ls
+cd desktop
+ls
+cd fanpage.html
+git status
+git add fanpage.html
+pwd
+ls
+git push fanpage.html
+ls
+cd prework-about-me
+ls
+git config
+ls a
+ls -a
+code .gitconfig
+git congig
+git --help
+code .gitconfig
+git status
+cd prework-about-me
+git status
+cd master
+git status
+cd prework_about_me
+git status
+ls
+cd prework-about-me
+ls
+git status
+~/class-repo
+~ class-repo
+ls
+cd class-repo
+ls
+git clone
+git clone git@unc.bootcampcontent.com:UNC-Coding-Boot-Camp/unc-ral-virt-fsf-pt-07-2021-u-c.git
+ls
+git pull
+ls
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+git pull
+git status
+git pull
+git status
+cd ..
+c ..
+c ..
+c ..
+c ..
+c..
+pwd
+c ..
+ls
+ls
+cd desktop
+ls
+cd index.html
+git status
+ls
+cd prework-about-me
+ls
+c ..
+c..
+c ..
+ls
+cd bootcamp
+ls

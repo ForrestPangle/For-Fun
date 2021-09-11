@@ -1,0 +1,10 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = ForrestPangle
+	email = 87397971+ForrestPangle@users.noreply.github.com
+[init]
+	defaultBranch = master

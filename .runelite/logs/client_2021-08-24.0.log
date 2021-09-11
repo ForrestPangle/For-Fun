@@ -1,0 +1,7 @@
+2021-08-24 02:33:05 [RuneLite] INFO  net.runelite.client.RuneLite - RuneLite 1.7.20.1 (launcher version 2.1.5) starting up, args: none
+2021-08-24 02:33:07 [Preloader] INFO  net.runelite.client.rs.ClientLoader - Using cached vanilla client
+2021-08-24 02:33:07 [Preloader] WARN  net.runelite.client.rs.ClientLoader - Cached patch hash mismatches, regenerating patch
+2021-08-24 02:33:23 [Preloader] INFO  net.runelite.client.rs.ClientLoader - client-patch 1518097659.231
+2021-08-24 02:33:23 [RuneLite] INFO  n.r.client.account.SessionManager - No session file exists
+2021-08-24 02:33:24 [RuneLite] INFO  n.r.c.plugins.kourendlibrary.Library - Library is now reset
+2021-08-24 02:33:26 [RuneLite] INFO  n.r.client.discord.DiscordService - Initializing Discord RPC service.

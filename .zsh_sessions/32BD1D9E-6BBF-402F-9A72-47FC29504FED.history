@@ -1,0 +1,671 @@
+node--version
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew help
+brewhelp
+- run brew help
+-runbrewhelp
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/forrestpangle/.zprofile\
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+brew help
+brew install node
+node --version
+ssh - keygen -t rsa -b 4046 - C forrestpangle@gmail.com
+ssh-keygen -t rsa -b 4046 -C forrestpangle@gmail.com
+eval $(.ssh/id_rsa\
+eval $(ssh - agent -S)\
+eval $(ssh-agent -S)\
+eval $(.ssh - agent -S)\
+eval eval $(ssh-agent -s)\
+evl $(ssh-agent -s)\
+eval $ssh-agent -s)
+pbcopy < ~/.sshid_rsa.pub >
+ssh-add ~/.ssh/id_rsa
+open /Users/forrestpangle/.ssh/id_rsa.pub.
+ls -al ~/.ssh
+$ pbcopy < ~/.ssh/id_rsa.pub\
+
+$ pbcopy < ~/.ssh/id_rsa.pub\
+
+echo "# GitForrest" >> README.md
+git remote add origin https://github.com/ForrestPangle/GitForrest.git
+ssh-keygen â€ƒ³t rsa â€ƒ³b 4096 â€ƒ³C "forrestpangle@gmail.com"
+eval "$(ssh-agent â€ƒ³s)"
+Host *\
+  AddKeysToAgent yes\
+  UseKeychain yes\
+  IdentityFile ~/.ssh/id_rsa\
+
+AddKeysToAgent
+AddKeysToAgent yes
+ssh-keygen â€ƒ³t rsa â€ƒ³b 4096 â€ƒ³C "forrestpangle@gmail.com"
+pbcopy < ~/.ssh/id_rsa.pub
+$ git config --global user.email "email@example.com"\
+
+$ git config --global user.email "forrestpangle@gmail.com"
+$ git config --global user.email\
+
+ls
+mkdir lrn2code
+cd lrn2code
+touch lrn2code.de
+touch lrn2code.md
+ls
+rm lean2code.de
+ls
+cd learn2code.de
+pwd
+ls
+rm lrn2code.de
+ls
+mv lrn2code.md test lrn2code.jpeg
+ls
+ls
+mv lrn2code.md test.md
+ls
+rm test.md
+ls
+history
+ls
+cd lrn2code
+ls
+touch test.md
+ls
+code .\\
+code .
+ls
+code .
+code .
+ls -a
+code .gitconfig
+git clone git@github.com:ForrestPangle/prework-about-me.git
+ls
+cd prework-about-me
+ls
+code .
+git status
+git add index.html
+git status
+git comit -m 
+git status
+git commit "updating our h1 tag with our name"
+git status
+git commit m- "updating our h1 tag with our name"
+git status
+git status
+git commit -m "updating our h1 tag with our name"
+git status
+git push origin master
+git status
+code .
+git status
+git add index.html
+git status
+git commit m- "updating personal details"
+git ststus
+git status
+git commit -m "updatingpersonal details"
+git push origin master
+git status
+git add index.html
+gtit status
+git status
+git status
+git push origin master
+git status
+git commit -m "updating details again for typo"
+git status
+ls
+code .
+git staus
+git staus
+cd prework-about-me
+git status
+git add index.html
+git status
+git add commit -m "bug fix"
+git status
+git stutus
+git status
+git commit m- "bug fix"
+git commit -m "bug fix"
+git push origin master
+it git status
+git status
+git add index.html
+git staus
+git status
+git commit -m "more spelling errors ha"
+git push origin master
+git staus
+git status
+git status
+git add index.html
+git status
+git commit -m "another bug from a typo...I really am rusty"
+git push origin master
+git status
+git status
+git add index.html
+git status
+git commit m- "i guess all these typos make good practice? lol"
+git status
+git commit m- "i guess all these typos make good practice? ha"
+git status
+git status
+ls
+cd prework-about-me
+git status
+git commit m- "well i guess all these mistakes make good practice. More typos ha"
+git status
+git commit m- "more mistakes"
+git push origin master
+git status
+git status
+git commit m- "more typos"
+git commit m-"more typos"
+git commit m- "more typos"
+git status
+ls
+prework-about-me
+cd prework-about-me
+ls
+git status
+git commit m- "typo"
+code .
+git commit m- "typo"
+git status
+git commit -m "typo"
+git status
+git push index.html
+git status
+git status
+git push origin master
+git status
+git add index.html
+git status
+git commit -m"punctuation"
+git push origin master
+/Applications/CrossOver.app/Contents/SharedSupport/CrossOver/CrossOver-Hosted\ Application/wine32on64-preloader ; exit;
+/Applications/CrossOver.app/Contents/SharedSupport/CrossOver/CrossOver-Hosted\ Application/wine32on64-preloader ; exit;
+ls
+c ..
+c ..
+pwd
+pwd
+cd desktop
+ ~/desktop
+pwd
+ls
+mkdir demo-folder
+ls
+ls
+pwd
+ls
+cd demo-folder
+cd root
+~cd/desktop/demo-folder
+ls
+cd ..
+~/desktop/demo-folder
+cd first-day
+cd first-day
+ls
+cd first-day
+cd first-day
+cd first-day
+md dir first-day
+ls
+mk dir first-day
+ls
+mk dr-first-day
+ls
+pwd
+ls
+mk dr first-day
+ls
+mkdir first-day
+ls
+cd first-day
+touch demo
+ls
+pwd
+c ..
+pwd
+cd ..
+mkdir bootcamp
+cd bootcamp
+ls
+pwd
+c..
+..c
+..c
+.. c
+c ..
+c..
+cd desktop
+ls
+cd /bootcamp
+mkdir testing
+cd testing
+git clone git@github.com:ForrestPangle/testing.git
+git staus
+git clone git@github.com:ForrestPangle/testing.git
+ls
+cd testing
+touch index.html
+git status
+git add -A
+git status
+commit -m "first comment"
+git status
+git add -A
+git status
+git add index.html
+git status
+cd ~
+mkdir class-repo
+ls
+~/ .ssh
+sudo cd .ssh
+~/.ssh
+~/.ssh/id_ed25519.pub
+pbcopy < ~/.ssh/id_ed25519.pub
+ls
+cd bootcamp
+mkdir bootcamp
+ls
+git status
+cd ~
+cd .ssh/
+ls
+cat id_rsa.pub
+ls
+cd desktop
+ls
+ls
+cd desktop
+ls
+cd fanpage.html
+git status
+git add fanpage.html
+pwd
+ls
+git push fanpage.html
+ls
+cd prework-about-me
+ls
+git config
+ls a
+ls -a
+code .gitconfig
+git congig
+git --help
+code .gitconfig
+git status
+cd prework-about-me
+git status
+cd master
+git status
+cd prework_about_me
+git status
+ls
+cd prework-about-me
+ls
+git status
+~/class-repo
+~ class-repo
+ls
+cd class-repo
+ls
+git clone
+git clone git@unc.bootcampcontent.com:UNC-Coding-Boot-Camp/unc-ral-virt-fsf-pt-07-2021-u-c.git
+ls
+git pull
+ls
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+git pull
+git status
+git pull
+git status
+cd ..
+c ..
+c ..
+c ..
+c ..
+c..
+pwd
+c ..
+ls
+ls
+cd desktop
+ls
+cd index.html
+git status
+ls
+cd prework-about-me
+ls
+c ..
+c..
+c ..
+ls
+cd bootcamp
+ls
+git status
+cd
+ls
+cd bootcamp
+git status
+ls
+c ..
+ls
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+git status
+git pull
+git stash
+git pull
+ls
+git status
+git --version
+brew upgrade git
+ls
+c ..
+c..
+c ../
+git status
+git stash
+git pull
+git fetch origin main
+git pull origin main
+git reset --hard
+git pull
+git reset --head
+git pull
+git reset --hard head\\
+git pull
+git reset --hard head
+git pull
+cd 01-html-git-css/activities
+ls
+ls -a
+rm .DS_Store
+ls
+ls -a
+git pull
+git reset --help
+cd bootcamp
+ls
+git status
+ls
+cd clsas-repo
+cd bootcamp
+ls
+cd desktop
+;s
+ls
+cd desktops
+cd desktop
+ls
+cd bootcamp
+ls
+ls
+cd class-repo
+git status
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+ls
+git status
+ls
+ls
+cd ~
+cd
+ls
+cd bootcamp
+mkdir landing-page
+ls
+cd landing page
+cd landing-page
+touch index.html
+ls
+cd
+ls
+cd bootcamp
+ls
+git status
+ls
+cd bootcamp
+git status
+git clone git@github.com:ForrestPangle/landing-page.git
+ls
+cd landing-page
+git status
+ls
+git init
+get commit -m "initial commit"
+git commit -m "wow"
+git add -a
+git add -A
+ls
+git commit -m "wow"
+git branch -M main
+git remote add origin git@github.com:ForrestPangle/landing-page.git
+git push -u origin main'
+git status
+git push -u origin main
+ls
+cd ..
+cd ..
+cd ..
+~/.bash_profile
+cd class-repo
+ls
+ls
+git status
+cd README.md
+cd testing
+ls
+git status
+cd~
+cd ~
+ls -al
+brew list
+code .
+ls
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+ls
+c ..
+ls
+c .
+ls
+ls
+cd class-repo
+ls
+cd ls\
+unc-ral-virt-fsf-pt-07-2021-u-c\
+
+ls
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+ls
+ls
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+ls -all
+cd 01-html-git-css
+ls
+cd homework
+ls
+code .
+ls
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+ls
+git status
+ls
+rm .DS_Store
+ls
+git status
+git status
+rm 01-html-git-css/.DS_Store
+ls
+git status
+rm hard--01-html-git-css/activities/.DS_Store
+rm 01-html-git-css/activities/.DS_Store
+ls
+git status
+git rm .DS_Store
+git add 01-html-git-css/homework/.DS_Store
+git status
+ls
+git status
+git restore --staged 01-html-git-css/homework/.DS_Store\\
+la
+la
+ls
+giot status
+git status
+git restore --staged 01-html-git-css/homework/.DS_Store
+git status
+ls
+cd bbootcamp
+ls
+cd bootcamp
+ls
+git status
+git add landing-page
+cds ..
+cd ..
+ls
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+git status
+ls
+git add landing-page
+mkdir landing-page
+git status
+ls
+git push landing-page
+git status
+cd landing-page
+ls
+git add index.html
+mkdir test add
+ls
+git status
+git add 	../01-html-git-css/homework/.DS_Store
+git status
+cd..
+cd ..
+ls
+cd landing-page
+ls
+rm add
+rm test
+cd ..
+ls
+git status
+git restore 01-html-git-css/homework/.DS_Store
+git status
+git restore --staged 01-html-git-css/homework/.DS_Store
+git status
+git status
+git add 01-html-git-css/homework/.DS_Store
+git status
+git commit 01-html-git-css/homework/.DS_Store
+cd
+ls
+cd class-repo
+ls
+git status
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+ls
+git status
+git restore --staged 01-html-git-css/homework/.DS_Store
+git status
+rm 01-html-git-css/.DS_Store
+git statuus
+git status
+rm 01-html-git-css/homework/.DS_Store
+git status
+rm them all right
+rm .DS_Store
+git status
+rm 01-html-git-css/important/.DS_Store
+git status
+git status
+git status
+git reset --hard head
+git pull
+git status
+rm .DS_Store
+ls
+git status
+git status
+git --help
+.exe checksum (SHA256):e7bc8930166a0c0e70cc17de1fc83e7cbac864d684af05468a8e7f8426038cf7
+git fetch --all
+git branch --unset-upstream
+git branch -u origin/main
+git pull
+cd
+ls
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+ls
+git status
+ls
+java -version
+cd ..
+git init
+git add -A
+git commit -m "first commit"
+git status
+git branch -M main
+git remote add origin git@github.com:ForrestPangle/refactoring.git
+git push -u origin main
+git status
+git status
+git add develop/index.html
+git status
+git commit m- "header seemed to break sequential order and appears the programmer just used it for font size. I have changed it to <p> and am going to fix the style sheet so that the text is still larger. Possibily just going to set font size for it to 24px to try and match the original appearance"
+git status
+git commit -m "h2 header in the footer appears to have just been used for font size and breaks sequential order. I have replaced it with a <p> tag instead and will look into editing the style sheet so that the font still looks about the same."
+git push
+git status
+git add develop/assets/css/style.css
+git status
+git status
+git commit m- "Made changes to the footer in the style sheet so that the font would still appear larger without breaking the order of the headers."
+git commit -m "Made changes to the footer in the style sheet so that the font would still appear larger without breaking the order of the headers."
+git status
+git push
+git statsu
+git status
+git status
+git add develop/assets/css/style.css
+git status
+git commit -m "changed font size of the footer again to more closely resemble the orginal size"
+git push
+git status
+git status
+java -version
+java -version
+ls
+ls
+cd class repo
+cd class-repo
+ls
+cd unc-ral-virt-fsf-pt-07-2021-u-c
+ls
+git status
+giut status
+git status

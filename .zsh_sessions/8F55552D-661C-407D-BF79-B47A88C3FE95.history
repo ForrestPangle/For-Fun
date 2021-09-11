@@ -1,0 +1,41 @@
+node--version
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew help
+brewhelp
+- run brew help
+-runbrewhelp
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/forrestpangle/.zprofile\
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+brew help
+brew install node
+node --version
+ssh - keygen -t rsa -b 4046 - C forrestpangle@gmail.com
+ssh-keygen -t rsa -b 4046 -C forrestpangle@gmail.com
+eval $(.ssh/id_rsa\
+eval $(ssh - agent -S)\
+eval $(ssh-agent -S)\
+eval $(.ssh - agent -S)\
+eval eval $(ssh-agent -s)\
+evl $(ssh-agent -s)\
+eval $ssh-agent -s)
+pbcopy < ~/.sshid_rsa.pub >
+ssh-add ~/.ssh/id_rsa
+open /Users/forrestpangle/.ssh/id_rsa.pub.
+ls -al ~/.ssh
+$ pbcopy < ~/.ssh/id_rsa.pub\
+
+$ pbcopy < ~/.ssh/id_rsa.pub\
+
+echo "# GitForrest" >> README.md
+git remote add origin https://github.com/ForrestPangle/GitForrest.git
+ssh-keygen â€ƒ³t rsa â€ƒ³b 4096 â€ƒ³C "forrestpangle@gmail.com"
+eval "$(ssh-agent â€ƒ³s)"
+Host *\
+  AddKeysToAgent yes\
+  UseKeychain yes\
+  IdentityFile ~/.ssh/id_rsa\
+
+AddKeysToAgent
+AddKeysToAgent yes
+ssh-keygen â€ƒ³t rsa â€ƒ³b 4096 â€ƒ³C "forrestpangle@gmail.com"
+pbcopy < ~/.ssh/id_rsa.pub
